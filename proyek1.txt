@@ -1,5 +1,5 @@
 # Front End Developer
 - Html
-- CSS ( Bootsrapp )
+- CSS ( Bootsrapp, Tailwind )
 - Javascript ( React )
 - Web API ( Xmlhttprequest => Ajax => Jquery )
