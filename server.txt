@@ -1,3 +1,1 @@
-# Server side
-- Node Js murni
-- Built in Object Node js
+
