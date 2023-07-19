@@ -3,3 +3,4 @@
 - CSS ( Bootsrapp, Tailwind )
 - Javascript ( React )
 - Web API ( Xmlhttprequest => Ajax => Jquery )
+- Web API ( LocalStorage, SessionStorage )
